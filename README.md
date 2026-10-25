@@ -1,3 +1,13 @@
+## Français
+
+Liste des tâches rémunérées proposées aux développeurs qui contribuent à warpSpeed OPEN. Exemple : choisir un bounty ouvert, traiter son issue et soumettre une pull request selon les règles du projet.
+
+## English
+
+A list of paid tasks for developers contributing to warpSpeed OPEN. Example: choose an open bounty, work on its issue, and submit a pull request under the project rules.
+
+---
+
 # warpSpeed Bounties
 
 Paid open-source bounty tasks for developers contributing to **warpSpeed OPEN**.
